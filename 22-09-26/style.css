@@ -1,0 +1,46 @@
+*{
+   margin: 20px;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+#one{
+    height: 50%;
+    width: 80%;
+    background-color: green;
+}
+#two{
+    height: 50%;
+    width: 80%;
+    background-color: red; 
+}
+#three{
+    height: 40%;
+    width: 60%;
+    background-color: yellow;
+}
+#four{
+    height: 50%;
+    width: 80%;
+    background-color: green;
+}
+#five{
+    height: 50%;
+    width: 80%;
+    background-color: green;
+}
+#six{
+    height: 50%;
+    width: 80%;
+    background-color: green;
+}
+#seven{
+    height: 50%;
+    width: 80%;
+    background-color: green;
+}
